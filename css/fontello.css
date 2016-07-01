@@ -55,12 +55,12 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
 
-.icon-facebook-squared:before { content: '\e800'; } /* '' */
-.icon-youtube:before { content: '\e801'; font-size: 76px; } /* '' */
-.icon-gplus-squared:before { content: '\e802'; } /* '' */
-.icon-twitch:before { content: '\e803'; } /* '' */
-.icon-user:before { content: '\e804'; } /* '' */
-.icon-laptop:before { content: '\e805'; } /* '' */
-.icon-graduation-cap:before { content: '\e806'; } /* '' */
-.icon-vcard:before { content: '\e807'; } /* '' */
-.icon-gmail:before { content: '\e808'; } /* '' */
+.icon-facebook-squared:before { content: '\e800'; font-size: 76px;margin-top: 30px; } /* '' */
+.icon-youtube:before { content: '\e801'; font-size: 76px;margin-top: 30px; } /* '' */
+.icon-gplus-squared:before { content: '\e802'; font-size: 76px;margin-top: 30px; } /* '' */
+.icon-twitch:before { content: '\e803'; font-size: 76px;margin-top: 30px; } /* '' */
+.icon-user:before { content: '\e804'; font-size: 76px;margin-top: 20px; } /* '' */
+.icon-laptop:before { content: '\e805'; font-size: 76px;margin-top: 20px; } /* '' */
+.icon-graduation-cap:before { content: '\e806'; font-size: 76px;margin-top: 20px; } /* '' */
+.icon-vcard:before { content: '\e807'; font-size: 76px;margin-top: 20px; } /* '' */
+.icon-gmail:before { content: '\e808'; font-size: 76px;margin-top: 20px; } /* '' */

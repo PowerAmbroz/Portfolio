@@ -54,6 +54,26 @@ margin-right: auto;
   height: 142px;
   background-color: #3095d3;
   float: left;
+  text-align: center;
+}
+
+.tile1:hover
+{
+  background-color: #2084c2;
+}
+.tile1_1
+{
+  margin: 10px;
+  width: 230px;
+  height: 142px;
+  background-color: #3095d3;
+  float: left;
+  text-align: center;
+}
+
+.tile1_1:hover
+{
+  background-color: #2084c2;
 }
 
 .tile2
@@ -63,6 +83,12 @@ margin-right: auto;
   height: 142px;
   background-color: #666666;
   float: left;
+  text-align: center;
+}
+
+.tile2:hover
+{
+  background-color: #555555;
 }
 
 .tile3
@@ -72,34 +98,52 @@ margin-right: auto;
   height: 142px;
   background-color: #93c748;
   float: left;
+  text-align: center;
+}
+
+.tile3:hover
+{
+  background-color: #82b637;
 }
 
 .tile4
 {
   margin: 10px;
-  width: 480px;
-  height: 142px;
+  width: 420px;
+  height: 82px;
   background-color: #ee5a32;
+  text-align: center;
+  font-size: 23px;
+  padding: 30px;
+  line-height: 110%;
 }
 
 .tile5
 {
   margin: 10px;
-  width: 480px;
-  height: 304px;
+  width: 420px;
+  height: 244px;
   background-color: #666666;
+  text-align: justify;
+  padding: 30px;
 }
 
 .yt
 {
   margin: 10px;
-  width: 105px;
+  width: 230px;
   height: 142px;
   background-color: #d94348;
   float: left;
+  text-align: center;
 }
 
-.fb
+.yt:hover
+{
+  background-color: #c83237;
+}
+
+/*.fb
 {
   margin: 10px;
   width: 105px;
@@ -108,6 +152,10 @@ margin-right: auto;
   float: left;
 }
 
+.fb:hover
+{
+  background-color: #3557a2;
+}
 .gplus
 {
   margin: 10px;
@@ -117,11 +165,28 @@ margin-right: auto;
   float: left;
 }
 
+.gplus:hover
+{
+  background-color: #c84222;
+}
+*/
 .twitch
 {
   margin: 10px;
-  width: 105px;
+  width: 230px;
   height: 142px;
   background-color: #7744aa;
   float: left;
+  text-align: center;
+}
+
+.twitch:hover
+{
+  background-color: #663399;
+}
+
+a.tilelink
+{
+  color: #ffffff;
+  text-decoration: none;
 }
