@@ -22,7 +22,7 @@ margin-right: auto;
 
 .square
 {
-  width: 50%;
+  width: 100%;
   float: left;
 }
 
@@ -66,14 +66,14 @@ margin-right: auto;
   margin: 10px;
   width: 230px;
   height: 142px;
-  background-color: #3095d3;
+  background-color: #E96B39;
   float: left;
   text-align: center;
 }
 
 .tile1_1:hover
 {
-  background-color: #2084c2;
+  background-color: #d85a28;
 }
 
 .tile2
@@ -81,14 +81,14 @@ margin-right: auto;
   margin: 10px;
   width: 230px;
   height: 142px;
-  background-color: #666666;
+  background-color: #a8ba57;
   float: left;
   text-align: center;
 }
 
 .tile2:hover
 {
-  background-color: #555555;
+  background-color: #97a946;
 }
 
 .tile3
@@ -96,14 +96,14 @@ margin-right: auto;
   margin: 10px;
   width: 230px;
   height: 142px;
-  background-color: #93c748;
+  background-color: #008080;
   float: left;
   text-align: center;
 }
 
 .tile3:hover
 {
-  background-color: #82b637;
+  background-color: #007070;
 }
 
 .tile4
@@ -118,7 +118,7 @@ margin-right: auto;
   line-height: 110%;
 }
 
-.tile5
+/*.tile5
 {
   margin: 10px;
   width: 420px;
@@ -126,7 +126,7 @@ margin-right: auto;
   background-color: #666666;
   text-align: justify;
   padding: 30px;
-}
+}*/
 
 .yt
 {

@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'fontello';
-  src: url('../font/fontello.eot?67782687');
-  src: url('../font/fontello.eot?67782687#iefix') format('embedded-opentype'),
-       url('../font/fontello.woff2?67782687') format('woff2'),
-       url('../font/fontello.woff?67782687') format('woff'),
-       url('../font/fontello.ttf?67782687') format('truetype'),
-       url('../font/fontello.svg?67782687#fontello') format('svg');
+  src: url('../font/fontello.eot?18421179');
+  src: url('../font/fontello.eot?18421179#iefix') format('embedded-opentype'),
+       url('../font/fontello.woff2?18421179') format('woff2'),
+       url('../font/fontello.woff?18421179') format('woff'),
+       url('../font/fontello.ttf?18421179') format('truetype'),
+       url('../font/fontello.svg?18421179#fontello') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'fontello';
-    src: url('../font/fontello.svg?67782687#fontello') format('svg');
+    src: url('../font/fontello.svg?18421179#fontello') format('svg');
   }
 }
 */
@@ -55,12 +55,20 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
 
-.icon-facebook-squared:before { content: '\e800'; font-size: 76px;margin-top: 30px; } /* '' */
-.icon-youtube:before { content: '\e801'; font-size: 76px;margin-top: 30px; } /* '' */
-.icon-gplus-squared:before { content: '\e802'; font-size: 76px;margin-top: 30px; } /* '' */
-.icon-twitch:before { content: '\e803'; font-size: 76px;margin-top: 30px; } /* '' */
-.icon-user:before { content: '\e804'; font-size: 76px;margin-top: 20px; } /* '' */
-.icon-laptop:before { content: '\e805'; font-size: 76px;margin-top: 20px; } /* '' */
-.icon-graduation-cap:before { content: '\e806'; font-size: 76px;margin-top: 20px; } /* '' */
-.icon-vcard:before { content: '\e807'; font-size: 76px;margin-top: 20px; } /* '' */
-.icon-gmail:before { content: '\e808'; font-size: 76px;margin-top: 20px; } /* '' */
+.icon-to-start-alt:before { content: '\e800'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-signal:before { content: '\e801'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-heart:before { content: '\e802'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-youtube:before { content: '\e803'; font-size: 76px; margin-top: 35px;} /* '' */
+.icon-facebook-squared:before { content: '\e804'; font-size: 76px; margin-top: 35px;} /* '' */
+.icon-gplus-squared:before { content: '\e805'; font-size: 76px; margin-top: 35px;} /* '' */
+.icon-laptop:before { content: '\e806'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-twitch:before { content: '\e807'; font-size: 76px; margin-top: 35px;} /* '' */
+.icon-user:before { content: '\e808'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-vcard:before { content: '\e809'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-gmail:before { content: '\e80a'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-graduation-cap:before { content: '\e80b'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-youtube-play:before { content: '\e80c'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-desktop:before { content: '\e80d'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-pencil:before { content: '\e80e'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-login:before { content: '\e80f'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-table:before { content: '\e810'; font-size: 76px; margin-top: 25px;} /* '' */

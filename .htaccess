@@ -1,0 +1,14 @@
+### PROTECT FILES ###
+<FilesMatch "\.(htaccess|htpasswd|ini|fla|psd|log|sh)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+
+RewriteEngine on
+RewriteRule zatrudnij-programiste-webowego-i-montera-wideo index.php
+RewriteRule kim-jestem php/kimjestem.php
+RewriteRule oferta-tworzenie-stron-www php/oferta.php
+RewriteRule cv-programista-php-javascript php/cv.php
+RewriteRule kontakt-programista-php php/kontakt.php
+RewriteRule ambroz-youtube php/yt.php
+RewriteRule ambroz-twitch php/twitch.php

@@ -1,0 +1,22 @@
+
+.icon-to-start-alt:before { content: '\e800'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-signal:before { content: '\e801'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-heart:before { content: '\e802'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-youtube:before { content: '\e803'; font-size: 76px; margin-top: 35px;} /* '' */
+.icon-facebook-squared:before { content: '\e804'; font-size: 76px; margin-top: 35px;} /* '' */
+.icon-gplus-squared:before { content: '\e805'; font-size: 76px; margin-top: 35px;} /* '' */
+.icon-laptop:before { content: '\e806'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-twitch:before { content: '\e807'; font-size: 76px; margin-top: 35px;} /* '' */
+.icon-user:before { content: '\e808'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-vcard:before { content: '\e809'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-gmail:before { content: '\e80a'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-graduation-cap:before { content: '\e80b'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-youtube-play:before { content: '\e80c'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-desktop:before { content: '\e80d'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-pencil:before { content: '\e80e'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-login:before { content: '\e80f'; font-size: 76px; margin-top: 25px;} /* '' */
+.icon-table:before { content: '\e810'; font-size: 76px; margin-top: 25px;} /* '' */
+
+
+E96B39
+d85a28
